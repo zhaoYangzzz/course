@@ -15,6 +15,8 @@ import java.util.List;
 public class TestController {
    @Resource
    private TestService testService;
-
-
+   @RequestMapping("test")
+   public List<Test> list(){
+      return testService.list();
+   }
 }

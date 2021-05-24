@@ -839,30 +839,31 @@
 
       <div class="main-content">
         <div class="main-content-inner">
-          <div class="breadcrumbs ace-save-state" id="breadcrumbs">
-            <ul class="breadcrumb">
-              <li>
-                <i class="ace-icon fa fa-home home-icon"></i>
-                <a href="#">Home</a>
-              </li>
+<!--          <div class="breadcrumbs ace-save-state" id="breadcrumbs">-->
+<!--            <ul class="breadcrumb">-->
+<!--              <li>-->
+<!--                <i class="ace-icon fa fa-home home-icon"></i>-->
+<!--                <a href="#">Home</a>-->
+<!--              </li>-->
 
-              <li>
-                <a href="#">Other Pages</a>
-              </li>
-              <li class="active">Blank Page</li>
-            </ul><!-- /.breadcrumb -->
+<!--              <li>-->
+<!--                <a href="#">Other Pages</a>-->
+<!--              </li>-->
+<!--              <li class="active">Blank Page</li>-->
+<!--            </ul>&lt;!&ndash; /.breadcrumb &ndash;&gt;-->
 
-            <div class="nav-search" id="nav-search">
-              <form class="form-search">
-								<span class="input-icon">
-									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
-									<i class="ace-icon fa fa-search nav-search-icon"></i>
-								</span>
-              </form>
-            </div><!-- /.nav-search -->
-          </div>
+<!--            <div class="nav-search" id="nav-search">-->
+<!--              <form class="form-search">-->
+<!--								<span class="input-icon">-->
+<!--									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />-->
+<!--									<i class="ace-icon fa fa-search nav-search-icon"></i>-->
+<!--								</span>-->
+<!--              </form>-->
+<!--            </div>&lt;!&ndash; /.nav-search &ndash;&gt;-->
+<!--          </div>-->
 
           <div class="page-content">
+<!--
             <div class="ace-settings-container" id="ace-settings-container">
               <div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
                 <i class="ace-icon fa fa-cog bigger-130"></i>
@@ -909,7 +910,7 @@
                       <b>.container</b>
                     </label>
                   </div>
-                </div><!-- /.pull-left -->
+                </div>&lt;!&ndash; /.pull-left &ndash;&gt;
 
                 <div class="pull-left width-50">
                   <div class="ace-settings-item">
@@ -926,10 +927,10 @@
                     <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight" autocomplete="off" />
                     <label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
                   </div>
-                </div><!-- /.pull-left -->
-              </div><!-- /.ace-settings-box -->
-            </div><!-- /.ace-settings-container -->
-
+                </div>&lt;!&ndash; /.pull-left &ndash;&gt;
+              </div>&lt;!&ndash; /.ace-settings-box &ndash;&gt;
+            </div>&lt;!&ndash; /.ace-settings-container &ndash;&gt;
+-->
             <div class="row">
               <div class="col-xs-12">
                 <!-- PAGE CONTENT BEGINS -->

@@ -10,7 +10,6 @@
                 <span class="">控台登录</span>
               </h1>
             </div>
-
             <div class="space-6"></div>
 
             <div class="position-relative">

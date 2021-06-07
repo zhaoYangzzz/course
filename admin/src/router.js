@@ -24,7 +24,7 @@ import Chapter from './views/admin/chapter.vue'
                 path:'welcome',
                 component:Welcome,
             },{
-                path:'chapter',
+                path:'business/chapter',
                 component:Chapter,
             }]
         }]

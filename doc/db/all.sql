@@ -18,3 +18,7 @@ create table `test` (
 
 insert into `test` (id, name) values (1, '测试');
 insert into `test` (id, name) values (2, '测试2');
+
+insert into `chapter` (id, course_id,name) values ('00000000', '00000000','测试大章一');
+insert into `chapter` (id, course_id,name) values ('00000001', '00000000','测试大章二');
+insert into `test` (id, name) values (2, '测试2');
